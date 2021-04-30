@@ -230,4 +230,22 @@ div.texto{
 }
 }
 
+.btnwhats{
+	position: fixed;
+	bottom:20px;
+	right: 20px;
+	
 
+
+}
+
+.btnwhats img{
+	width: 60px;
+}
+
+
+@media only screen and (max-width: 576px){
+		.btnwhats{
+		right: 30px;
+}
+}
